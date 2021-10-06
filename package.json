@@ -1,0 +1,19 @@
+{
+  "name": "jon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "wtr test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@asdgf/core": "^0.0.2",
+    "@asdgf/testing-helpers": "^0.0.2",
+    "@asdgf/web-test-runner": "^0.0.4",
+    "@web/test-runner": "^0.13.18"
+  }
+}
